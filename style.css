@@ -1,0 +1,13 @@
+body {
+  background: #050505;
+  color: #00ff99;
+  font-family: monospace;
+  text-align: center;
+  padding-top: 50px;
+}
+
+#hidden-clue {
+  display: none;
+}
+
+/* Hint: hiding is not the same as protecting */
